@@ -1,0 +1,45 @@
+html, body {
+    background-color: rgb(168, 116, 125);
+    padding: 0;
+    margin: 0;
+}
+
+    table{
+    background-color: rgb(233, 213, 218);
+    border: 1px solid;
+    padding: 15px;
+    border-color: rgb(189, 138, 202);
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-content: center;
+    }
+    .menu-item{
+        color: rgb(0, 0, 0);
+        background-color: rgb(173, 234, 75);
+        display: inline-block;
+        width: 8%;
+        text-align: center;
+        padding: 10px;
+        text-decoration: none;
+    }
+    .screen{
+        background-color: rgb(255, 247, 233);
+        padding: 25px;
+        margin: 80px;
+        text-align: center;
+    }
+    .button{
+        color: white;
+        background-color: rgb(105, 101, 167);
+        display: inline-block;
+        width: 30%;
+        margin: 30px;
+        padding: 25px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        align-content: center;
+
+    }
